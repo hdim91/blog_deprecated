@@ -1,7 +1,7 @@
 # 임현도의 블로그 깃허브
 
 ## 블로그 소개
-개인적으로 평소에 흥미가 있던 분야나 전문적인 분야들에 대한 간략한 글을 남기기 위해 개설한 블로그 입니다. [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/)의 포맷을 확용하여 만들었습니다.
+개인적으로 평소에 흥미가 있던 분야나 전문적인 분야들에 대한 간략한 글을 남기기 위해 개설한 블로그 입니다. [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/)의 포맷을 활용하여 만들었습니다.
 
 ## 개인 소개
 한국개발연구원(KDI)의 전문연구원입니다. 주로 노동시장과 창업, 그리고 플랫폼 노동시장을 주로 분석합니다.
