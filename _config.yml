@@ -13,7 +13,13 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   G-GH99MNYM20 # out your google-analytics code
+<!--google_analytics:   G-GH99MNYM20 # out your google-analytics code-->
+analytics:
+  provider       : 'google-gtag'
+  
+  google: 
+    tracking_id  : 'G-GH99MNYM20'
+    anonymize_ip :
 
 # Build settings
 markdown:           kramdown
